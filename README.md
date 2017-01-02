@@ -54,3 +54,11 @@ Call:
 Set MRF=True for simplified implementation of https://arxiv.org/pdf/1601.04589v1.pdf
 
 ---------------------------------------------------------------------
+
+# Contributors
+
+- Sheallika Singh
+- Aayush Mudgal
+- Vibhuti Mahajan
+
+-------------------------------------------------------------------------
